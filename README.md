@@ -1,2 +1,2 @@
-# sipdec-python0
+# ctpea-python0
 Cours Python 
